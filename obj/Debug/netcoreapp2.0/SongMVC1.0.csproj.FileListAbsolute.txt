@@ -1,0 +1,10 @@
+F:\ZPractice\SongMVC1.0\bin\Debug\netcoreapp2.0\SongMVC1.0.deps.json
+F:\ZPractice\SongMVC1.0\bin\Debug\netcoreapp2.0\SongMVC1.0.runtimeconfig.json
+F:\ZPractice\SongMVC1.0\bin\Debug\netcoreapp2.0\SongMVC1.0.runtimeconfig.dev.json
+F:\ZPractice\SongMVC1.0\bin\Debug\netcoreapp2.0\SongMVC1.0.dll
+F:\ZPractice\SongMVC1.0\bin\Debug\netcoreapp2.0\SongMVC1.0.pdb
+F:\ZPractice\SongMVC1.0\obj\Debug\netcoreapp2.0\SongMVC1.0.csproj.CoreCompileInputs.cache
+F:\ZPractice\SongMVC1.0\obj\Debug\netcoreapp2.0\SongMVC1.0.AssemblyInfoInputs.cache
+F:\ZPractice\SongMVC1.0\obj\Debug\netcoreapp2.0\SongMVC1.0.AssemblyInfo.cs
+F:\ZPractice\SongMVC1.0\obj\Debug\netcoreapp2.0\SongMVC1.0.dll
+F:\ZPractice\SongMVC1.0\obj\Debug\netcoreapp2.0\SongMVC1.0.pdb
